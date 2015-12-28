@@ -12,9 +12,12 @@
 }
 .ika_ja {
     font-family: 'ikamodoki';
+	font-size: 400%;
 }
 
-
+.ika_ja1 {
+    font-family: 'ikamodoki';
+}
 body {
     /*font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, sans-serif;*/
     font-family: 'koruri';
@@ -89,7 +92,7 @@ img {
     margin: 0 auto;
 }
 .blank {
-  margin-top: 20%;
+  margin-top: 7%;
 }
 .blank1 {
   margin-bottom: 4%;
